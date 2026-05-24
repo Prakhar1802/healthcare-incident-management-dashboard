@@ -1,0 +1,201 @@
+"incident_id";"client_id";"job_id";"analyst_id";"incident_category";"priority";"status";"root_cause";"created_date";"resolved_date";"resolution_time"
+1;3;3;3;"Claim Processing Delay";"Medium";"Resolved";"Invalid Input Data";"2024-10-24 12:53:50";"2024-10-27 08:53:50";4080
+2;8;10;7;"Payment Posting Failure";"Medium";"Resolved";"Database Lock";"2024-10-17 11:29:18";"2024-10-19 13:29:18";3000
+3;3;8;8;"Claim Processing Delay";"High";"In Progress";"Network Issue";"2025-02-14 15:59:01";"";0
+4;2;6;7;"Payment Posting Failure";"Low";"Resolved";"API Failure";"2024-10-08 14:04:33";"2024-10-11 11:04:33";4140
+5;7;4;1;"Eligibility Verification Failure";"Medium";"Open";"Invalid Input Data";"2024-05-04 21:45:07";"";0
+6;6;3;7;"Eligibility Verification Failure";"High";"Open";"Server Downtime";"2025-01-02 22:54:32";"";0
+7;6;7;7;"ETL Failure";"Low";"Resolved";"API Failure";"2024-04-15 11:47:45";"2024-04-18 06:47:45";4020
+8;14;1;3;"Claim Processing Delay";"Medium";"Resolved";"Database Lock";"2024-04-08 03:21:05";"2024-04-10 01:21:05";2760
+9;6;1;10;"Claim Processing Delay";"High";"Resolved";"Database Lock";"2024-04-26 20:24:19";"2024-04-29 01:24:19";3180
+10;3;5;1;"Claim Processing Delay";"Critical";"In Progress";"Network Issue";"2025-03-11 17:09:33";"";0
+11;7;4;3;"Database Timeout";"Low";"Resolved";"Invalid Input Data";"2024-02-26 05:26:13";"2024-02-28 22:26:13";3900
+12;8;1;3;"Database Timeout";"Medium";"In Progress";"Database Lock";"2024-11-06 05:32:39";"";0
+13;12;9;3;"ETL Failure";"Medium";"Open";"API Failure";"2024-11-05 14:04:03";"";0
+14;3;4;7;"Database Timeout";"Low";"Resolved";"API Failure";"2024-07-12 23:07:44";"2024-07-15 01:07:44";3000
+15;11;2;3;"Payment Posting Failure";"Medium";"Resolved";"Server Downtime";"2024-08-15 14:28:16";"2024-08-17 08:28:16";2520
+16;8;5;7;"Payment Posting Failure";"Critical";"In Progress";"Database Lock";"2024-05-03 19:48:03";"";0
+17;10;10;3;"Eligibility Verification Failure";"High";"In Progress";"API Failure";"2024-06-02 12:35:35";"";0
+18;10;5;3;"Claim Processing Delay";"Critical";"Resolved";"Database Lock";"2024-07-21 17:04:42";"2024-07-23 23:04:42";3240
+19;13;4;7;"Payment Posting Failure";"Critical";"In Progress";"API Failure";"2024-03-28 06:01:23";"";0
+20;3;9;5;"Database Timeout";"Critical";"Resolved";"Network Issue";"2025-01-31 23:53:31";"2025-02-03 08:53:31";3420
+21;3;7;9;"Payment Posting Failure";"High";"Resolved";"Database Lock";"2024-08-11 07:27:23";"2024-08-12 09:27:23";1560
+22;15;5;7;"ETL Failure";"High";"Resolved";"API Failure";"2024-10-13 18:52:48";"2024-10-16 18:52:48";4320
+23;11;10;6;"Database Timeout";"Medium";"Open";"Network Issue";"2024-11-02 13:00:54";"";0
+24;3;8;3;"Database Timeout";"Low";"Open";"API Failure";"2024-10-29 03:54:03";"";0
+25;15;3;4;"Database Timeout";"Medium";"In Progress";"Database Lock";"2024-10-24 05:11:32";"";0
+26;14;8;2;"Eligibility Verification Failure";"Critical";"Resolved";"API Failure";"2024-05-11 15:22:01";"2024-05-12 01:22:01";600
+27;15;9;5;"ETL Failure";"Low";"Resolved";"Server Downtime";"2024-01-04 01:27:25";"2024-01-06 22:27:25";4140
+28;1;6;3;"Payment Posting Failure";"Medium";"Open";"Network Issue";"2024-11-04 13:30:57";"";0
+29;4;4;1;"Eligibility Verification Failure";"High";"In Progress";"API Failure";"2024-11-20 10:48:48";"";0
+30;3;8;2;"Claim Processing Delay";"Medium";"Resolved";"Server Downtime";"2024-06-02 23:27:36";"2024-06-05 23:27:36";4320
+31;4;9;1;"ETL Failure";"High";"Open";"Invalid Input Data";"2024-04-16 08:59:38";"";0
+32;2;9;1;"Payment Posting Failure";"Medium";"Resolved";"Database Lock";"2024-05-05 03:17:07";"2024-05-06 23:17:07";2640
+33;13;7;7;"Claim Processing Delay";"Medium";"Resolved";"Invalid Input Data";"2025-02-08 20:38:34";"2025-02-08 22:38:34";120
+34;14;2;2;"Claim Processing Delay";"High";"Resolved";"Database Lock";"2024-03-03 06:38:31";"2024-03-04 03:38:31";1260
+35;13;8;9;"Database Timeout";"Medium";"Resolved";"Database Lock";"2024-01-16 19:54:54";"2024-01-18 10:54:54";2340
+36;3;1;10;"Database Timeout";"High";"In Progress";"Invalid Input Data";"2024-11-28 01:06:40";"";0
+37;1;3;8;"Eligibility Verification Failure";"High";"Resolved";"Database Lock";"2024-01-27 20:22:19";"2024-01-29 21:22:19";2940
+38;9;9;8;"Claim Processing Delay";"High";"Open";"Network Issue";"2024-08-12 07:08:36";"";0
+39;6;4;7;"Claim Processing Delay";"Medium";"Resolved";"Invalid Input Data";"2024-07-20 19:08:57";"2024-07-21 16:08:57";1260
+40;2;1;8;"Eligibility Verification Failure";"Critical";"Resolved";"Invalid Input Data";"2024-05-19 14:44:16";"2024-05-21 05:44:16";2340
+41;13;3;1;"Eligibility Verification Failure";"High";"Open";"Network Issue";"2024-01-28 15:38:22";"";0
+42;14;8;5;"ETL Failure";"Medium";"In Progress";"API Failure";"2025-01-06 09:46:05";"";0
+43;2;9;9;"Claim Processing Delay";"Medium";"Resolved";"Invalid Input Data";"2024-03-19 00:39:11";"2024-03-21 08:39:11";3360
+44;14;3;6;"Claim Processing Delay";"Medium";"Resolved";"Invalid Input Data";"2024-07-18 06:02:29";"2024-07-19 04:02:29";1320
+45;10;9;7;"Eligibility Verification Failure";"Low";"In Progress";"Invalid Input Data";"2024-11-22 23:57:25";"";0
+46;8;4;3;"Database Timeout";"Medium";"Resolved";"API Failure";"2024-03-16 08:55:13";"2024-03-16 12:55:13";240
+47;6;6;10;"Claim Processing Delay";"Critical";"Resolved";"Invalid Input Data";"2024-07-16 23:59:05";"2024-07-17 01:59:05";120
+48;3;6;5;"ETL Failure";"Medium";"In Progress";"Database Lock";"2025-02-16 07:52:36";"";0
+49;6;1;3;"Database Timeout";"Medium";"Resolved";"Database Lock";"2024-10-21 20:03:28";"2024-10-21 23:03:28";180
+50;3;7;3;"Claim Processing Delay";"Medium";"Resolved";"Server Downtime";"2024-05-16 15:48:12";"2024-05-17 19:48:12";1680
+51;9;2;2;"ETL Failure";"Medium";"Resolved";"Server Downtime";"2024-10-14 04:55:42";"2024-10-16 20:55:42";3840
+52;13;9;4;"Database Timeout";"Medium";"In Progress";"Server Downtime";"2025-02-16 13:42:17";"";0
+53;14;4;2;"Database Timeout";"Medium";"Open";"Network Issue";"2024-07-07 19:47:22";"";0
+54;10;9;2;"ETL Failure";"High";"In Progress";"Database Lock";"2024-04-04 17:18:32";"";0
+55;3;8;7;"Payment Posting Failure";"High";"Resolved";"API Failure";"2024-07-01 16:05:27";"2024-07-04 13:05:27";4140
+56;13;5;9;"Payment Posting Failure";"High";"Open";"Network Issue";"2024-12-18 10:54:10";"";0
+57;4;10;7;"ETL Failure";"High";"Open";"Server Downtime";"2024-04-10 17:47:23";"";0
+58;3;10;8;"Eligibility Verification Failure";"Low";"Open";"API Failure";"2024-06-07 04:49:38";"";0
+59;15;1;7;"Payment Posting Failure";"High";"Resolved";"Invalid Input Data";"2024-04-14 17:31:36";"2024-04-16 06:31:36";2220
+60;11;2;10;"Database Timeout";"High";"Resolved";"API Failure";"2024-03-15 18:56:08";"2024-03-16 04:56:08";600
+61;7;5;3;"Claim Processing Delay";"High";"Resolved";"Server Downtime";"2024-02-24 05:53:06";"2024-02-25 14:53:06";1980
+62;3;5;4;"Eligibility Verification Failure";"Medium";"Resolved";"Network Issue";"2025-01-24 14:41:19";"2025-01-26 06:41:19";2400
+63;3;5;8;"Claim Processing Delay";"Medium";"Open";"API Failure";"2024-04-10 00:06:05";"";0
+64;3;6;8;"Eligibility Verification Failure";"Medium";"In Progress";"API Failure";"2024-04-22 07:13:12";"";0
+65;4;7;5;"Eligibility Verification Failure";"High";"Open";"Server Downtime";"2024-12-21 15:51:20";"";0
+66;1;2;1;"Claim Processing Delay";"Medium";"Open";"Database Lock";"2024-08-29 04:14:52";"";0
+67;8;4;1;"ETL Failure";"High";"In Progress";"Network Issue";"2024-06-18 08:06:32";"";0
+68;4;1;3;"Payment Posting Failure";"High";"In Progress";"API Failure";"2024-09-28 10:05:55";"";0
+69;3;6;2;"Eligibility Verification Failure";"Critical";"Resolved";"Network Issue";"2025-02-10 07:42:27";"2025-02-12 14:42:27";3300
+70;15;10;7;"Database Timeout";"High";"Resolved";"Database Lock";"2025-02-18 16:37:35";"2025-02-20 08:37:35";2400
+71;9;6;1;"Claim Processing Delay";"Low";"Open";"API Failure";"2025-03-09 11:06:05";"";0
+72;4;9;3;"Database Timeout";"High";"Resolved";"Server Downtime";"2025-03-02 13:47:14";"2025-03-04 03:47:14";2280
+73;14;7;1;"Claim Processing Delay";"High";"Open";"Database Lock";"2025-01-03 19:46:19";"";0
+74;13;9;3;"Payment Posting Failure";"Medium";"Resolved";"Network Issue";"2024-07-20 03:26:43";"2024-07-20 17:26:43";840
+75;15;6;9;"Claim Processing Delay";"Low";"Resolved";"Network Issue";"2024-10-12 14:55:35";"2024-10-14 16:55:35";3000
+76;3;2;3;"Eligibility Verification Failure";"High";"In Progress";"Network Issue";"2024-11-12 18:24:58";"";0
+77;3;3;9;"Database Timeout";"Critical";"Resolved";"Database Lock";"2024-01-22 00:38:37";"2024-01-24 23:38:37";4260
+78;3;4;5;"Payment Posting Failure";"Medium";"Open";"API Failure";"2024-10-25 04:21:28";"";0
+79;15;1;1;"Payment Posting Failure";"Medium";"Resolved";"API Failure";"2024-08-22 04:45:47";"2024-08-23 11:45:47";1860
+80;15;3;7;"Payment Posting Failure";"High";"Open";"API Failure";"2024-04-10 04:02:31";"";0
+81;14;6;10;"Eligibility Verification Failure";"Critical";"Open";"Database Lock";"2024-01-13 02:44:38";"";0
+82;9;8;4;"Payment Posting Failure";"High";"Open";"Database Lock";"2024-06-20 00:15:10";"";0
+83;9;3;1;"Claim Processing Delay";"Critical";"Resolved";"API Failure";"2024-08-12 02:16:40";"2024-08-12 05:16:40";180
+84;11;1;7;"Database Timeout";"Low";"Open";"Invalid Input Data";"2024-11-01 14:30:11";"";0
+85;14;8;8;"Claim Processing Delay";"Medium";"In Progress";"Network Issue";"2024-01-25 18:47:35";"";0
+86;8;6;7;"Eligibility Verification Failure";"High";"Resolved";"Network Issue";"2024-07-24 00:14:41";"2024-07-24 23:14:41";1380
+87;6;2;5;"Payment Posting Failure";"High";"Resolved";"Invalid Input Data";"2024-08-23 14:19:21";"2024-08-26 04:19:21";3720
+88;3;1;1;"Database Timeout";"Medium";"Resolved";"Network Issue";"2024-01-14 19:35:08";"2024-01-15 16:35:08";1260
+89;3;5;5;"Database Timeout";"Medium";"In Progress";"Network Issue";"2024-10-17 21:55:10";"";0
+90;1;9;7;"Payment Posting Failure";"Medium";"Resolved";"API Failure";"2024-09-04 09:35:04";"2024-09-05 08:35:04";1380
+91;3;10;3;"ETL Failure";"Medium";"Resolved";"Database Lock";"2024-12-28 19:12:28";"2024-12-29 23:12:28";1680
+92;12;7;5;"Database Timeout";"High";"Resolved";"API Failure";"2024-06-16 09:51:43";"2024-06-16 18:51:43";540
+93;15;4;1;"Payment Posting Failure";"Medium";"In Progress";"API Failure";"2024-06-27 16:58:16";"";0
+94;3;1;3;"ETL Failure";"High";"In Progress";"Database Lock";"2024-07-22 08:39:43";"";0
+95;7;3;4;"Eligibility Verification Failure";"Critical";"In Progress";"Network Issue";"2024-12-03 12:42:52";"";0
+96;11;3;3;"Eligibility Verification Failure";"Critical";"Resolved";"API Failure";"2024-04-15 11:41:30";"2024-04-18 01:41:30";3720
+97;6;8;10;"Eligibility Verification Failure";"Medium";"Resolved";"API Failure";"2024-12-26 09:20:05";"2024-12-26 22:20:05";780
+98;15;8;4;"Claim Processing Delay";"Low";"Resolved";"API Failure";"2024-09-01 04:14:38";"2024-09-01 12:14:38";480
+99;3;2;7;"Eligibility Verification Failure";"Medium";"Resolved";"Database Lock";"2024-01-01 06:09:12";"2024-01-01 21:09:12";900
+100;11;3;1;"Claim Processing Delay";"High";"In Progress";"API Failure";"2024-02-16 17:38:19";"";0
+101;11;1;10;"Claim Processing Delay";"Medium";"Resolved";"Invalid Input Data";"2025-02-05 14:48:55";"2025-02-05 15:48:55";60
+102;3;6;2;"Database Timeout";"Medium";"Resolved";"Invalid Input Data";"2024-01-14 12:11:42";"2024-01-16 22:11:42";3480
+103;8;1;1;"Claim Processing Delay";"High";"In Progress";"Database Lock";"2024-10-13 10:49:01";"";0
+104;11;8;3;"Database Timeout";"High";"Resolved";"API Failure";"2025-01-18 21:56:03";"2025-01-18 23:56:03";120
+105;3;10;4;"ETL Failure";"Medium";"Resolved";"Server Downtime";"2024-11-25 21:36:14";"2024-11-27 21:36:14";2880
+106;14;1;7;"Claim Processing Delay";"Medium";"In Progress";"API Failure";"2024-07-28 09:24:50";"";0
+107;14;5;10;"Payment Posting Failure";"Medium";"Resolved";"Database Lock";"2025-02-22 06:44:41";"2025-02-22 17:44:41";660
+108;6;2;1;"Claim Processing Delay";"Low";"In Progress";"API Failure";"2024-06-20 13:17:50";"";0
+109;2;3;8;"Eligibility Verification Failure";"Medium";"Resolved";"Invalid Input Data";"2024-01-06 14:54:20";"2024-01-08 10:54:20";2640
+110;5;8;3;"Claim Processing Delay";"Medium";"Resolved";"Database Lock";"2024-01-18 18:52:28";"2024-01-19 02:52:28";480
+111;3;6;1;"Payment Posting Failure";"Low";"Open";"Database Lock";"2025-03-25 04:30:06";"";0
+112;3;4;3;"ETL Failure";"Medium";"In Progress";"Server Downtime";"2024-03-06 04:18:02";"";0
+113;3;10;8;"Claim Processing Delay";"Medium";"In Progress";"Invalid Input Data";"2024-06-29 17:32:08";"";0
+114;6;9;2;"Payment Posting Failure";"Medium";"Resolved";"Network Issue";"2024-12-12 15:55:58";"2024-12-13 21:55:58";1800
+115;3;1;9;"Claim Processing Delay";"Critical";"Resolved";"Database Lock";"2024-06-08 09:40:27";"2024-06-08 22:40:27";780
+116;11;3;5;"ETL Failure";"Critical";"In Progress";"Database Lock";"2024-01-12 11:15:31";"";0
+117;3;4;1;"ETL Failure";"Low";"Open";"Server Downtime";"2024-07-28 01:20:11";"";0
+118;12;6;7;"Claim Processing Delay";"Medium";"Resolved";"API Failure";"2024-12-30 09:51:25";"2024-12-31 11:51:25";1560
+119;3;2;5;"Database Timeout";"Medium";"In Progress";"Database Lock";"2024-02-03 04:10:08";"";0
+120;10;1;6;"Eligibility Verification Failure";"High";"Resolved";"Invalid Input Data";"2024-12-28 20:48:18";"2024-12-29 11:48:18";900
+121;8;4;3;"ETL Failure";"Low";"Resolved";"Server Downtime";"2024-05-21 21:56:11";"2024-05-22 23:56:11";1560
+122;9;2;1;"Eligibility Verification Failure";"Critical";"Resolved";"Server Downtime";"2024-07-07 01:40:25";"2024-07-08 04:40:25";1620
+123;11;9;8;"ETL Failure";"High";"In Progress";"Database Lock";"2024-07-29 09:36:01";"";0
+124;15;9;7;"Payment Posting Failure";"Low";"Resolved";"Network Issue";"2025-02-21 07:31:30";"2025-02-23 04:31:30";2700
+125;11;4;9;"Eligibility Verification Failure";"High";"Open";"Invalid Input Data";"2024-02-24 01:13:46";"";0
+126;3;9;1;"Claim Processing Delay";"Medium";"In Progress";"Database Lock";"2024-01-13 17:44:55";"";0
+127;3;6;3;"Eligibility Verification Failure";"Low";"Resolved";"Database Lock";"2024-07-14 18:47:56";"2024-07-16 17:47:56";2820
+128;3;8;1;"Database Timeout";"High";"Resolved";"Invalid Input Data";"2024-10-16 09:11:05";"2024-10-17 17:11:05";1920
+129;3;4;2;"Eligibility Verification Failure";"Medium";"Open";"Database Lock";"2025-03-20 12:23:34";"";0
+130;3;5;1;"Payment Posting Failure";"Critical";"Resolved";"Invalid Input Data";"2024-08-24 06:58:28";"2024-08-24 10:58:28";240
+131;3;6;5;"ETL Failure";"High";"In Progress";"Invalid Input Data";"2025-02-20 20:24:21";"";0
+132;2;7;3;"Eligibility Verification Failure";"High";"Resolved";"API Failure";"2024-05-31 05:27:12";"2024-06-01 01:27:12";1200
+133;12;2;8;"Payment Posting Failure";"Low";"Resolved";"API Failure";"2025-01-27 18:30:43";"2025-01-29 22:30:43";3120
+134;13;8;7;"ETL Failure";"High";"Resolved";"Network Issue";"2024-10-13 08:57:37";"2024-10-14 16:57:37";1920
+135;2;1;3;"ETL Failure";"High";"Resolved";"Database Lock";"2025-03-13 02:41:18";"2025-03-14 05:41:18";1620
+136;8;1;7;"Database Timeout";"Medium";"Resolved";"API Failure";"2024-07-17 07:58:31";"2024-07-17 15:58:31";480
+137;8;2;1;"Payment Posting Failure";"Medium";"In Progress";"Database Lock";"2024-06-11 13:29:44";"";0
+138;13;2;5;"ETL Failure";"Critical";"Resolved";"Database Lock";"2024-04-22 00:53:54";"2024-04-23 06:53:54";1800
+139;14;2;8;"Payment Posting Failure";"Medium";"In Progress";"Invalid Input Data";"2025-03-11 00:50:22";"";0
+140;4;7;7;"Eligibility Verification Failure";"High";"Resolved";"API Failure";"2024-06-28 04:08:26";"2024-06-28 23:08:26";1140
+141;6;6;3;"Payment Posting Failure";"Medium";"Resolved";"Server Downtime";"2025-01-16 04:31:05";"2025-01-18 23:31:05";4020
+142;1;7;7;"Eligibility Verification Failure";"Low";"In Progress";"Server Downtime";"2024-11-14 17:32:55";"";0
+143;3;2;4;"Claim Processing Delay";"Medium";"In Progress";"Invalid Input Data";"2024-06-23 06:13:13";"";0
+144;10;6;3;"ETL Failure";"High";"Resolved";"API Failure";"2024-06-02 17:32:52";"2024-06-04 22:32:52";3180
+145;14;3;5;"ETL Failure";"Critical";"Resolved";"Invalid Input Data";"2024-10-10 01:03:57";"2024-10-10 17:03:57";960
+146;3;6;2;"Eligibility Verification Failure";"High";"Resolved";"Database Lock";"2024-05-02 03:57:52";"2024-05-02 07:57:52";240
+147;15;10;1;"Eligibility Verification Failure";"Low";"Resolved";"Database Lock";"2025-01-24 01:48:41";"2025-01-25 15:48:41";2280
+148;13;1;4;"Payment Posting Failure";"Medium";"Resolved";"Network Issue";"2024-10-19 12:56:45";"2024-10-21 07:56:45";2580
+149;10;10;1;"Payment Posting Failure";"High";"Resolved";"API Failure";"2024-06-05 15:57:12";"2024-06-06 03:57:12";720
+150;3;3;5;"Payment Posting Failure";"Medium";"Resolved";"Server Downtime";"2024-04-22 23:15:43";"2024-04-23 07:15:43";480
+151;3;4;7;"Claim Processing Delay";"Medium";"Resolved";"Invalid Input Data";"2024-04-20 22:24:35";"2024-04-21 01:24:35";180
+152;4;4;3;"Payment Posting Failure";"Medium";"Resolved";"API Failure";"2025-02-04 22:11:42";"2025-02-07 14:11:42";3840
+153;14;1;9;"Database Timeout";"Medium";"Resolved";"API Failure";"2024-01-01 00:39:14";"2024-01-01 17:39:14";1020
+154;1;9;4;"Payment Posting Failure";"High";"Resolved";"API Failure";"2024-10-15 07:04:45";"2024-10-16 13:04:45";1800
+155;2;10;7;"Claim Processing Delay";"High";"Open";"Server Downtime";"2024-01-30 20:11:25";"";0
+156;5;6;5;"Database Timeout";"Critical";"Open";"Server Downtime";"2024-02-11 21:01:07";"";0
+157;8;10;3;"Payment Posting Failure";"Medium";"In Progress";"Server Downtime";"2024-12-25 03:34:08";"";0
+158;11;6;2;"ETL Failure";"Medium";"Resolved";"Network Issue";"2024-11-29 21:42:39";"2024-11-30 07:42:39";600
+159;12;10;2;"Payment Posting Failure";"High";"In Progress";"Database Lock";"2025-03-30 21:49:02";"";0
+160;15;8;3;"ETL Failure";"High";"In Progress";"Server Downtime";"2024-06-26 16:12:38";"";0
+161;6;4;3;"Eligibility Verification Failure";"High";"Resolved";"Database Lock";"2024-05-16 14:22:06";"2024-05-17 16:22:06";1560
+162;4;8;5;"ETL Failure";"Low";"Resolved";"API Failure";"2024-07-15 23:04:01";"2024-07-17 06:04:01";1860
+163;11;3;3;"Eligibility Verification Failure";"Low";"In Progress";"Network Issue";"2024-09-20 12:52:52";"";0
+164;3;4;5;"Payment Posting Failure";"Critical";"In Progress";"Database Lock";"2024-01-03 11:18:35";"";0
+165;15;8;3;"Database Timeout";"High";"In Progress";"Invalid Input Data";"2024-11-22 10:19:48";"";0
+166;13;5;2;"Claim Processing Delay";"Critical";"Open";"Network Issue";"2024-01-02 08:56:36";"";0
+167;2;10;7;"ETL Failure";"Critical";"Resolved";"Invalid Input Data";"2025-02-23 18:55:19";"2025-02-24 06:55:19";720
+168;11;4;8;"Database Timeout";"Medium";"Resolved";"Invalid Input Data";"2024-11-08 13:36:34";"2024-11-09 15:36:34";1560
+169;5;5;4;"Database Timeout";"Medium";"Resolved";"Database Lock";"2025-02-07 22:55:11";"2025-02-09 03:55:11";1740
+170;11;9;7;"Claim Processing Delay";"Medium";"Resolved";"Network Issue";"2024-11-20 18:32:33";"2024-11-22 04:32:33";2040
+171;3;5;4;"Database Timeout";"Medium";"In Progress";"Server Downtime";"2024-02-08 21:41:30";"";0
+172;6;10;3;"Claim Processing Delay";"High";"Resolved";"Network Issue";"2024-11-07 09:43:58";"2024-11-08 08:43:58";1380
+173;15;10;3;"Payment Posting Failure";"Medium";"Open";"API Failure";"2025-02-26 02:10:43";"";0
+174;9;1;7;"ETL Failure";"Low";"Resolved";"Invalid Input Data";"2024-08-26 17:23:05";"2024-08-28 00:23:05";1860
+175;11;6;7;"Eligibility Verification Failure";"High";"Open";"Invalid Input Data";"2024-05-13 21:53:11";"";0
+176;3;4;9;"ETL Failure";"Low";"Resolved";"Network Issue";"2024-06-16 12:46:35";"2024-06-18 09:46:35";2700
+177;3;1;1;"Database Timeout";"Medium";"Open";"Invalid Input Data";"2024-10-09 19:24:33";"";0
+178;5;4;6;"Database Timeout";"Medium";"In Progress";"API Failure";"2025-03-21 02:19:38";"";0
+179;2;10;3;"ETL Failure";"Medium";"Resolved";"Server Downtime";"2024-10-02 11:38:29";"2024-10-03 05:38:29";1080
+180;14;8;2;"Database Timeout";"Low";"In Progress";"API Failure";"2024-09-06 02:48:07";"";0
+181;11;7;4;"Claim Processing Delay";"High";"In Progress";"Network Issue";"2025-03-29 07:12:01";"";0
+182;3;5;7;"Claim Processing Delay";"High";"In Progress";"API Failure";"2024-01-12 02:37:12";"";0
+183;3;1;6;"ETL Failure";"High";"Open";"API Failure";"2024-08-28 10:06:11";"";0
+184;10;2;6;"Eligibility Verification Failure";"High";"In Progress";"Invalid Input Data";"2024-12-17 07:08:33";"";0
+185;3;1;2;"Payment Posting Failure";"Low";"In Progress";"Network Issue";"2024-02-07 18:36:13";"";0
+186;1;10;3;"ETL Failure";"Medium";"Resolved";"Invalid Input Data";"2024-10-03 10:55:32";"2024-10-06 04:55:32";3960
+187;13;2;7;"Eligibility Verification Failure";"Medium";"Open";"API Failure";"2024-04-17 07:17:47";"";0
+188;9;1;3;"Payment Posting Failure";"Medium";"Resolved";"Invalid Input Data";"2024-03-16 10:19:25";"2024-03-17 01:19:25";900
+189;3;3;1;"ETL Failure";"Critical";"Resolved";"Network Issue";"2024-10-31 06:18:53";"2024-11-01 07:18:53";1500
+190;4;6;10;"ETL Failure";"Medium";"In Progress";"Database Lock";"2024-02-14 07:42:51";"";0
+191;12;9;1;"ETL Failure";"High";"Resolved";"Database Lock";"2024-01-08 19:08:01";"2024-01-09 01:08:01";360
+192;3;3;1;"Database Timeout";"Low";"Open";"Database Lock";"2024-07-31 13:44:12";"";0
+193;10;4;10;"Database Timeout";"Medium";"Resolved";"Network Issue";"2024-04-10 02:06:05";"2024-04-13 02:06:05";4320
+194;3;6;1;"ETL Failure";"Medium";"Resolved";"Invalid Input Data";"2024-10-19 13:26:38";"2024-10-21 16:26:38";3060
+195;3;5;3;"Payment Posting Failure";"Medium";"Resolved";"Database Lock";"2024-07-08 07:13:46";"2024-07-10 04:13:46";2700
+196;1;5;3;"Claim Processing Delay";"High";"Resolved";"Database Lock";"2025-01-07 05:15:20";"2025-01-09 22:15:20";3900
+197;6;9;9;"Eligibility Verification Failure";"High";"In Progress";"Database Lock";"2024-03-29 14:39:35";"";0
+198;1;6;7;"ETL Failure";"Medium";"Resolved";"Invalid Input Data";"2024-11-12 23:59:17";"2024-11-14 00:59:17";1500
+199;2;3;4;"Payment Posting Failure";"Low";"Resolved";"Network Issue";"2025-01-11 22:53:30";"2025-01-13 19:53:30";2700
+200;6;9;2;"Payment Posting Failure";"High";"In Progress";"Invalid Input Data";"2024-04-14 00:45:35";"";0
